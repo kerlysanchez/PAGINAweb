@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(166, 179, 240);
+}
+h1{
+    font-size:xx-large;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 15em;
+    text-shadow:7px 4px 5px teal;
+}
+h3{
+    text-shadow:7px 4px 5px rgb(239, 240, 240);
+    font-size:x-large;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 20em;
+}
+h2{
+    text-align: center;
+    color: black;
+    text-shadow: 8px 5px cyan;
+}
+.bloque{
+    background-color: whitesmoke;
+    display: inline-table;
+}
+.tex{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+p{
+    text-align: center;
+}
